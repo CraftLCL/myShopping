@@ -1,0 +1,51 @@
+.sContent{
+    background-color: #fffbf2;
+}
+.titleImg{
+    padding: 20px 0;
+}
+.sTable  .firstRow {
+    background-color: #efefef;
+    text-align: center;
+}
+.sTable  .firstRow td{
+    background-color: #efefef;
+
+}
+.sTable table{
+    border: 1px solid #dfdfdf;
+}
+.sTable td{
+    border: 1px solid #dfdfdf;
+    height: 160px;
+    background-color: white;
+
+}
+.sTable img{
+    height: 140px;
+    width: 140px;
+}
+.sTable input{
+    width: 30px;
+    border: 1px solid #dfdfdf;
+}
+.sTable a{
+    color: #3485d6;
+}
+.sTableContent{
+    text-align: center;
+    line-height: 160px;
+}
+.lastContent{
+    padding: 0px 10px;
+}
+.lastContent i{
+    color: red;
+}
+.sImg{
+    width: 980px;
+    padding: 20px 0;
+}
+.sImg img{
+    padding: 0px 10px;
+}

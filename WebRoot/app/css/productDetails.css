@@ -1,0 +1,146 @@
+.login{
+    width: 740px;
+    padding: 0 20px;
+}
+.loginText{
+    color: #97368b;
+    font-size: 30px;
+    height: 50px;
+    line-height: 50px;
+}
+.lTBorder{
+    background-color: #e7e0ce;
+    width: auto;
+    height: 3px;
+}
+.xinHao{
+    color: red;
+}
+.loginText2{
+    height: 70px;
+    line-height: 70px;
+}
+ul .loginLi{
+    height: 30px;
+    padding: 10px 0
+;
+
+}
+li input{
+    border: 1px solid black;
+    height: 28px;
+    width: 220px;
+    font-size: 25px;
+}
+.loginLi .loginT{
+    width: 120px;
+    font-size: 25px;
+    line-height: 30px;
+    height: 30px;
+    display: block;
+}
+.formUL i{
+    height: 30px;
+    font-size:25px ;
+    line-height: 30px;
+}
+.formUL i,input{
+    float: left;
+}
+.loginSubmit{
+    width: 70px;
+    font-size: 23px;
+
+    border: none;
+    background-color: #f0f0f0;
+}
+.formUL .centerSubmit{
+
+    padding: 90px 300px;
+
+}
+.loginWarn{
+    color: red;
+}
+.detail{
+    background-color: #fffbf2;
+    width: 770px;
+    padding-left:10px ;
+}
+.tContent{
+    /*padding-left: 15px;*/
+}
+.tContent .title{
+    font-size: 28px;
+    font-weight: 900;
+}
+.rightContent{
+    width: 300px;
+    padding-left: 15px;
+}
+.textC{
+    padding: 5px 0;
+}
+.textC i,li{
+    float: left;
+}
+.textC i{
+    height: 25px;
+    line-height: 25px;
+}
+.textC li{
+    padding: 0px 2px;
+}
+.price{
+    font-size: 25px;
+    color: red;
+}
+
+.myProductBorder{
+    background-color: #afafad;
+    height: 1px;
+    margin: 30px 0;
+}
+.num{
+    height: 16px;
+}
+.num input{
+    border: 1px solid black;
+    height: 16px;
+    width: 40px;
+    margin-left: 3px;
+}
+.carImg{
+    width: 300px;
+    padding: 20px 0;
+}
+.putCarImg{
+    background: url(../images/1141.gif);
+    width: 126px;
+    height: 28px;
+}
+
+
+/*支付方式选择部分*/
+.detailBelow{
+
+    width: 565px;
+}
+.dbTitle{
+    padding: 20px 0;
+    font-weight: 900;
+}
+.myProductBorder2{
+    width: 565px;
+    background-color: #e7e0ce ;
+    height: 2px;
+}
+.styleList .sTop{
+    padding: 10px 0;
+}
+.styleList li{
+    padding: 5px 0;
+}
+.styleTile{
+    font-weight: 900;
+}

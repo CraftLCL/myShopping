@@ -1,0 +1,171 @@
+@charset "UTF-8";
+/*css 初始化 */
+html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, img { margin:0; padding:0; }
+/*outline去掉蓝边框*/
+fieldset, img,input,button { border:none; padding:0;margin:0;outline-style:none; }
+ul, ol { list-style:none; }
+input { padding-top:0; padding-bottom:0; font-family: "SimSun","宋体";}
+select, input { vertical-align:middle; }
+select, input, textarea { font-size:12px; margin:0; }
+textarea { resize:none; } /*防止拖动*/
+img {border:0; vertical-align:middle; }  /*  去掉图片低测默认的3像素空白缝隙*/
+table { border-collapse:collapse; }
+body {
+    font:12px/150% Arial,Verdana,"\5b8b\4f53";
+    color:#666;
+    background:#fff;
+
+}
+.clearfix:before,.clearfix:after{
+    content:"";
+    display:table;
+}
+.clearfix:after{clear:both;}
+.clearfix{
+    *zoom:1;/*IE/7/6*/
+}
+a{color:#666; text-decoration:none; }
+a:hover{color: #a45590;}
+h1,h2,h3,h4,h5,h6{text-decoration:none;font-weight:normal;font-size:100%;}
+s,i,em{font-style:normal;text-decoration:none;}
+.col-red{color: #5d3b53 !important;}
+
+/*公共类*/
+.w {  /*版心 提取 */
+    width: 1210px;margin:0 auto;
+}
+.fl {
+    float:left
+}
+.fr {
+    float:right
+}
+.al {
+    text-align:left
+}
+.ac {
+    text-align:center
+}
+.ar {
+    text-align:right
+}
+.hide {
+    display:none
+}
+.fcp{
+    color: #97368b;
+}
+/*头部导航开始*/
+.header{
+    background-color: #ddd2bc;
+    height: 70px;
+    background: url(../images/1101.gif);
+}
+.leftImage{
+    float: left;
+}
+.header .right{
+    float: right;
+    width: 400px;
+
+}
+.right ul{
+    float: left;
+    background-image: url(../images/1102.gif);
+    width: 307px;
+    height: 22px;
+    padding-left: 10px;
+}
+.right li{
+    float: left;
+    padding: 0px 10px;
+    line-height: 22px;
+}
+.right .myBorder{
+    margin-top:7px;
+    width: 1px;
+    height:10px;
+    background-color: #917076;
+    padding: 0px;
+}
+.positonRe{
+    position: relative;
+}
+.tpM5{
+    margin-top: 5px;
+}
+.tpM10{
+    margin-top: 10px;
+}
+
+/*头部导航结束*/
+/*中部导航条开始*/
+.mLead{
+    background-color: #e2d9c7;
+    width: 1130px;
+    padding-left: 80px;
+    position: relative;
+
+}
+.mLead .myImage{
+    background-image: url(../images/1103.gif);
+
+    width: 1003px;
+    height: 83px;
+}
+.mLead ul{
+    position: absolute;
+    left: 200px;
+    top: 6px;
+
+}
+.mLead li{
+    float: left;
+    padding: 0 20px;
+}
+/*中部导航条结束*/
+/*底部页脚开始*/
+.lastBelow{
+    /*background-color: #fffbf2;*/
+    margin-top: 20px;
+}
+.bTitle{
+    background: url(../images/1102.gif) no-repeat ;
+    height: 22px;
+    width: 980px;
+    background-size: cover;
+    margin: 0px auto;
+}
+.bTitle ul{
+    margin: 0px auto;
+    width: auto;
+
+}
+.bTitle li{
+    float: left;
+    height: 22px;
+
+    padding:0 70px;
+}
+.bTitle a{
+    color: white;
+    line-height: 22px;
+}
+.bContent{
+    width: 980px;
+    margin: 0 auto;
+    background-color: #fffbf2;
+}
+.bImg{
+    width: 300px;
+    height: 70px;
+}
+.bImg img{
+    float: right;
+}
+.bText{
+    width: 680px;
+    line-height: 70px;
+    height: 70px;
+    text-align: center;
+}

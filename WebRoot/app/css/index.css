@@ -1,0 +1,161 @@
+/*内容开始*/
+.center{
+    margin: 0px auto;
+    width: 980px;
+}
+.top .left{
+    width: 370px;
+    height: 219px;
+}
+.right .top{
+    background-image: url(../images/1104.gif);
+    height: 117px;
+    width: 588px;
+    position: relative;
+}
+.right .top img{
+    position: absolute;
+    left: 9px;
+    top: 7px;
+}
+.right .below{
+    background-image: url(../images/1105.gif);
+    width: 568px;
+    padding-top: 7px;
+    padding-left: 20px;
+    height: 95px;
+}
+.bRight{
+    margin-left: 5px;
+}
+.cBlow{
+    background:  url(../images/1106.gif) no-repeat ;
+    height: 43px;
+    width: 980px;
+    background-size: cover;
+}
+.news{
+    width: 200px;
+}
+.gongGao{
+    height: 60px;
+    width: 200px;
+}
+.gongGao i{
+    height: 60px;
+    width: 200px;
+    text-align: center;
+    line-height: 60px;
+    display: block;
+    font-weight: 900;
+}
+.home{
+    padding-right: 30px;
+
+    height: 10px;
+}
+.home img{
+    float: right;
+
+}
+.gGBorder{
+    background-color: #e7e0ce;
+    width: 200px;
+    height: 7px;
+}
+.gangGaoText li{
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.gangGaoText a{
+    height: 15px;
+    line-height: 15px;
+    margin-left: 10px;
+}
+.jJImg{
+    padding-top: 20px;
+}
+.teBie{
+    padding-top: 5px;
+}
+.dianHua{
+    padding-top: 5px;
+    padding-left: 5px;
+    background-color: #e7e0ce;
+}
+
+.goodThing{
+    width: 780px;
+}
+.shangPing{
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    font-weight: 900;
+}
+.sPBorder{
+    background-color: #e6dfcc;
+    height: 7px;
+    width: 780px;
+}
+.sP{
+    width: 170px;
+    height: 190px;
+    padding: 15px 12px 5px;
+    float: left;
+
+}
+.sP img{
+    height: 150px;
+    width: 160px;
+    border: 1px solid #eee7d9;
+    left: 4px;
+
+}
+.sP a{
+    display: block;
+    text-align: center;
+    color: #cf3e62;
+}
+.sP i{
+    display: block;
+    text-align: center;
+}
+.teJiaPing{
+    height: 330px;
+}
+.tJP{
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    font-weight: 900;
+    padding-top: 20px;
+}
+.topSale{
+    background: url(../images/1107.gif) no-repeat;
+    height: 250px;
+    width: 780px;
+    background-size: cover;
+}
+.sales{
+    width: 600px;
+    float: right;
+}
+.title li{
+    padding: 10px 65px 0;
+
+    float: left;
+}
+.myBorder3{
+    height: 16px;
+    width: 2px;
+    background-color: #000000;
+    display: block;
+    margin-right: 8px;
+
+}
+
+.title li .myBorder3,span{
+    float: left;
+    font-weight: 800;
+}

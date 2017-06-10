@@ -1,0 +1,27 @@
+.container{
+    margin: 0 auto;
+
+
+}
+.top{
+    width: 660px;
+    margin: 0 auto;
+}
+.title{
+    padding: 70px 10px 70px 0;
+    font-size: 26px;
+
+}
+.cContent{
+    padding-left:10px ;
+    font-size: 20px;
+    padding-top: 30px;
+    display: block;
+    vertical-align: bottom;
+
+}
+.bottom{
+    width: 400px;
+    margin: 0px auto;
+    padding: 20px 0;
+}

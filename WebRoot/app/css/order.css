@@ -1,0 +1,59 @@
+.sContent{
+    padding: 0 10px;
+    background-color: #fffbf2;
+}
+.sImg{
+    background: url(../images/submit_order.gif) ;
+    height: 47px;
+    width: 162px;
+
+
+}
+.titleContext{
+    padding: 0 10px;
+    font-size: 30px ;
+    height: 60px;
+    line-height: 60px;
+    font-weight: 900;
+}
+.orderContent{
+    border: 1px solid #ece9e5;
+}
+.border{
+    padding: 0 10px;
+}
+.orderBorder{
+    background: #ece9e5;
+    height: 2px;
+}
+.orderText{
+    padding: 0 50px;
+}
+.orderLi{
+    padding: 10px 0 5px;
+}
+.mark{
+    color: red;
+    float: left;
+}
+.text1{
+    height: 28px;
+    line-height: 28px;
+    width: 100px;
+    float: left;
+}
+.text2{
+    height: 23px;
+    padding: 10px 0 0 10px;
+    color: #abaaa9;
+    float: left;
+
+}
+.textInput{
+    height: 26px;
+    border: 1px solid #ece9e5;
+    width: 250px;
+    float: left;
+
+
+}
